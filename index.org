@@ -1,0 +1,114 @@
+#+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
+#+OPTIONS: ^:nil toc:3 author:t creator:t
+= 関西Emacs勉強会
+[2012-01-24 12:07:18] 
+
+* 関西Emacs勉強会
+** 概要
+   Emacs好きが集まって，拡張方法や使い方を紹介し合ったり，FPS on Emacsで遊んだり，今後のEmacsの発展を話し合ったりする勉強会です．
+** 試み
+*** Ust
+    毎回USTREAMで配信しています．
+
+    [[http://www.ustream.tv/user/kansai-emacs/videos][kansai-emacs's Videos on USTREAM.]]
+*** ポジションペーパー
+    全員が能動的に参加できるように，参加者はA4のポジションペーパーを用意し，勉強会開始時に自己紹介します．
+
+    第1回から毎回実施しています．紙での配布から事前アップロードなど少しずつ改善しています．
+
+    [[http://eto.com/d/PositionPaper.html][ポジションペーパ方式 - eto.com/d]]
+
+    [[http://wiki.fdiary.net/rails/?rails-tokyo-guide][Rails' Wiki - Rails勉強会@東京のしおり]]
+*** ワールドカフェ
+    一つのテーマについてテーブルにわかれて議論する方法の一つです．
+    第4回で導入しました．
+
+    メンバーを途中で入れ替える事で他のテーブルで話し合った内容を共有し，より深く議論する事ができます．
+** 参加者層
+   学生から社会人まで幅広く，遠いところでは福岡，香川，愛媛？，東京，石川？などからもこられています．
+
+   女性の参加者もほぼ毎回おられます．
+
+   一度るびきちさんも参加できそうでしたが，京都への移動時間が足りず，なんばで食事だけご一緒できました．
+** 開催時期
+   半年に1回．4月と10月に開催しています．これまでに4回開催しました．
+** 開催場所
+   過去の開催場所は大阪NPOプラザ(大阪)，(株)クロノス (大阪)，株式会社アックス(京都)，株式会社はてな(京都)と，関西で場所を探しています．
+** ハッシュタグ
+   #kansai_emacs [[https://twitter.com/search/#kansai_emacs][Twitter / Search - kansai_emacs]]
+** 姉妹イベント
+   Emacs Advent Calendar
+** 過去の記録
+*** 第4回 関西Emacs勉強会
+    定例にしようということで2011年後期分の開催です．
+**** 日付
+     [2011-10-08 土]
+**** 場所
+     セミナールーム in はてな
+**** 参加者
+     25名
+**** 発表者
+     6名
+**** ATND
+     作りすぎました
+     - [[http://atnd.org/events/20332][(kansai-emacs #x04) for 運営ミーティング用 : ATND]]
+     - [[http://atnd.org/events/20329][(kansai-emacs #x04) for 参加者 : ATND]]
+     - [[http://atnd.org/events/20330][(kansai-emacs #x04) for 発表者 : ATND]]
+     - [[http://atnd.org/events/20331][(kansai-emacs #x04) for 懇親会 : ATND]]
+**** ブログ(告知，まとめなど)
+     - [[http://d.hatena.ne.jp/peccu/20111004/kansai_emacs_4th][= (kansai-emacs #x04) ;=&gt; "第四回関西Emacs勉強会" - ぺっくブログミラー@peccul]]
+     - [[http://d.hatena.ne.jp/peccu/20111023/kansai_emacs_4th][= (prin1 (kansai-emacs #x04)) ; =&gt; 第四回関西Emacs勉強会まとめ - ぺっくブログミラー@peccul]]
+*** 第3回 関西Emacs勉強会
+    るびきちさんが大阪に来られるとの事で開催しました．結局お会いできましたが食事だけだったのが残念．
+
+    懇親会2次会にむりやりとしぁさんを連れ出したのはいい思い出．
+**** 日付
+     [2011-04-10 日]
+**** 場所
+     株式会社アックス
+**** 参加者
+     35名
+**** 発表者
+     5名
+**** ATND
+     - [[http://atnd.org/events/13379][(kansai-emacs #x03) : ATND]]
+**** ブログ(告知，まとめなど)
+     - [[http://d.hatena.ne.jp/peccu/20110402/kansai_emacs_3rd][= (kansai-emacs #x03) =&gt; "第三回関西Emacs勉強会" - ぺっくブログミラー@peccul]]
+     - すみませんまとめ記事書いてないです…
+     - きわなみさんの [[http://d.hatena.ne.jp/kiwanami/20110413/1302683171][関西Emacsに行ってきた - 技術日記＠kiwanami]]
+*** 第2回 関西Emacs勉強会
+    ともやさんが日本に帰ってきているとの事で開催しました．
+
+    女性初参加．
+**** 日付
+     [2010-09-25 土]
+**** 場所
+     (株)クロノス
+**** 参加者
+     29名
+**** 発表者
+     7名
+**** ATND
+     - [[http://atnd.org/events/7161][(kansai-emacs #x02) : ATND]]
+**** ブログ(告知，まとめなど)
+     - [[http://d.hatena.ne.jp/peccu/20100810/kansai_emacs][= (append event (kansai-emacs #x02)) 第二回関西Emacs勉強会開催予定(2010/9/25 Sat) - ぺっくブログミラー@peccul]]
+     - [[http://d.hatena.ne.jp/peccu/20100925/kansai_emacs][= (message (kansai-emacs #x02)) - ぺっくブログミラー@peccul]]
+     - [[http://d.hatena.ne.jp/peccu/20100925/kansai_emacs_now][= (kansai-emacs #x02) - ぺっくブログミラー@peccul]]
+*** 第1回 関西Emacs勉強会
+    初回はVim勉強会と抱き合わせでした．
+
+    今思うと初回はぐだぐだだったなーと．だいぶ改善されてきてると思う．
+**** 日付
+     [2010-02-03 水]
+**** 場所
+     大阪NPOプラザ(大阪)
+**** 参加者
+     20名
+**** 発表者
+     4名
+**** ATND
+     - [[http://atnd.org/events/3436][(kansai-emacs #x01) 発表者用 : ATND]]
+     - [[http://atnd.org/events/3435][(kansai-emacs #x01) 参加者用 : ATND]]
+**** ブログ(告知，まとめなど)
+     - [[http://d.hatena.ne.jp/peccu/20100303/kansaiemacs][(kansai-emacs #x01)第1回関西Emacs勉強会の詳細決定，通知 - ぺっくブログミラー@peccul]]
+     - [[http://d.hatena.ne.jp/peccu/20100330/kansaiemacs][(message (kansai-emacs #x01)) - ぺっくブログミラー@peccul]]
