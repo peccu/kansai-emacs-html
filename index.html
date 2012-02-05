@@ -1,67 +1,525 @@
-<ol class='xoxo'>
-  <li>関西Emacs勉強会
-    <ol>
-      <li>概要  Emacs好きが集まって，拡張方法や使い方を紹介し合ったり，FPS on Emacsで遊んだり，今後のEmacsの発展を話し合ったりする勉強会です．</li>
-      <li>試み
-        <ol>
-          <li>Ust   毎回USTREAMで配信しています．</li>
-          <li>ポジションペーパー   全員が能動的に参加できるように，参加者はA4のポジションペーパーを用意し，勉強会開始時に自己紹介します．</li>
-          <li>ワールドカフェ   一つのテーマについてテーブルにわかれて議論する方法の一つです．   第4回で導入しました．</li>
-        </ol>
-      </li>
-      <li>参加者層  学生から社会人まで幅広く，遠いところでは福岡，香川，愛媛？，東京，石川？などからもこられています．</li>
-      <li>開催時期  半年に1回．4月と10月に開催しています．これまでに4回開催しました．</li>
-      <li>開催場所  過去の開催場所は大阪NPOプラザ(大阪)，(株)クロノス (大阪)，株式会社アックス(京都)，株式会社はてな(京都)と，関西で場所を探しています．</li>
-      <li>ハッシュタグ  #kansai_emacs [[https://twitter.com/search/#kansai_emacs][Twitter / Search - kansai_emacs]]</li>
-      <li>姉妹イベント  Emacs Advent Calendar</li>
-      <li>過去の記録
-        <ol>
-          <li>第4回 関西Emacs勉強会   定例にしようということで2011年後期分の開催です．
-            <ol>
-              <li>日付    [2011-10-08 土]</li>
-              <li>場所    セミナールーム in はてな</li>
-              <li>参加者    25名</li>
-              <li>発表者    6名</li>
-              <li>ATND    作りすぎました    - [[http://atnd.org/events/20332][(kansai-emacs #x04) for 運営ミーティング用 : ATND]]    - [[http://atnd.org/events/20329][(kansai-emacs #x04) for 参加者 : ATND]]    - [[http://atnd.org/events/20330][(kansai-emacs #x04) for 発表者 : ATND]]    - [[http://atnd.org/events/20331][(kansai-emacs #x04) for 懇親会 : ATND]]</li>
-              <li>Ustream    - [[http://www.ustream.tv/recorded/5604331][Ust一覧]]</li>
-              <li>ブログ(告知，まとめなど)    - [[http://d.hatena.ne.jp/peccu/20111004/kansai_emacs_4th][= (kansai-emacs #x04) ;=&gt; "第四回関西Emacs勉強会" - ぺっくブログミラー@peccul]]    - [[http://d.hatena.ne.jp/peccu/20111023/kansai_emacs_4th][= (prin1 (kansai-emacs #x04)) ; =&gt; 第四回関西Emacs勉強会まとめ - ぺっくブログミラー@peccul]]</li>
-            </ol>
-          </li>
-          <li>第3回 関西Emacs勉強会   るびきちさんが大阪に来られるとの事で開催しました．結局お会いできましたが食事だけだったのが残念．
-            <ol>
-              <li>日付    [2011-04-10 日]</li>
-              <li>場所    株式会社アックス</li>
-              <li>参加者    35名</li>
-              <li>発表者    5名</li>
-              <li>ATND    - [[http://atnd.org/events/13379][(kansai-emacs #x03) : ATND]]</li>
-              <li>Ustream    - [[http://www.ustream.tv/recorded/5604331][Ust一覧]]</li>
-              <li>ブログ(告知，まとめなど)    - [[http://d.hatena.ne.jp/peccu/20110402/kansai_emacs_3rd][= (kansai-emacs #x03) =&gt; "第三回関西Emacs勉強会" - ぺっくブログミラー@peccul]]    - すみませんまとめ記事書いてないです…    - きわなみさんの [[http://d.hatena.ne.jp/kiwanami/20110413/1302683171][関西Emacsに行ってきた - 技術日記＠kiwanami]]</li>
-            </ol>
-          </li>
-          <li>第2回 関西Emacs勉強会   ともやさんが日本に帰ってきているとの事で開催しました．
-            <ol>
-              <li>日付    [2010-09-25 土]</li>
-              <li>場所    (株)クロノス</li>
-              <li>参加者    29名</li>
-              <li>発表者    7名</li>
-              <li>ATND    - [[http://atnd.org/events/7161][(kansai-emacs #x02) : ATND]]</li>
-              <li>Ustream    - [[http://www.ustream.tv/recorded/9802764][第2回その1]]Ust    - [[http://www.ustream.tv/recorded/9804685][第2回その2Ust]]</li>
-              <li>ブログ(告知，まとめなど)    - [[http://d.hatena.ne.jp/peccu/20100810/kansai_emacs][= (append event (kansai-emacs #x02)) 第二回関西Emacs勉強会開催予定(2010/9/25 Sat) - ぺっくブログミラー@peccul]]    - [[http://d.hatena.ne.jp/peccu/20100925/kansai_emacs][= (message (kansai-emacs #x02)) - ぺっくブログミラー@peccul]]    - [[http://d.hatena.ne.jp/peccu/20100925/kansai_emacs_now][= (kansai-emacs #x02) - ぺっくブログミラー@peccul]]</li>
-            </ol>
-          </li>
-          <li>第1回 関西Emacs勉強会   初回はVim勉強会と抱き合わせでした．
-            <ol>
-              <li>日付    [2010-02-03 水]</li>
-              <li>場所    大阪NPOプラザ(大阪)</li>
-              <li>参加者    20名</li>
-              <li>発表者    4名</li>
-              <li>ATND    - [[http://atnd.org/events/3436][(kansai-emacs #x01) 発表者用 : ATND]]    - [[http://atnd.org/events/3435][(kansai-emacs #x01) 参加者用 : ATND]]</li>
-              <li>Ustream    - [[http://www.ustream.tv/recorded/5604331][第1回Ust]]</li>
-              <li>ブログ(告知，まとめなど)    - [[http://d.hatena.ne.jp/peccu/20100303/kansaiemacs][(kansai-emacs #x01)第1回関西Emacs勉強会の詳細決定，通知 - ぺっくブログミラー@peccul]]    - [[http://d.hatena.ne.jp/peccu/20100330/kansaiemacs][(message (kansai-emacs #x01)) - ぺっくブログミラー@peccul]]</li>
-            </ol>
-          </li>
-        </ol>
-      </li>
-    </ol>
-  </li>
-</ol>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+               "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>= 関西Emacs勉強会</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<meta name="title" content="= 関西Emacs勉強会"/>
+<meta name="generator" content="Org-mode"/>
+<meta name="generated" content="2012-02-05 22:10:19 JST"/>
+<meta name="author" content="peccu"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  html { font-family: Times, serif; font-size: 12pt; }
+  .title  { text-align: center; }
+  .todo   { color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #add8e6; font-weight:normal }
+  .target { }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  {margin-left:auto; margin-right:0px;  text-align:right;}
+  .left   {margin-left:0px;  margin-right:auto; text-align:left;}
+  .center {margin-left:auto; margin-right:auto; text-align:center;}
+  p.verse { margin-left: 3% }
+  pre {
+	border: 1pt solid #AEBDCC;
+	background-color: #F3F5F7;
+	padding: 5pt;
+	font-family: courier, monospace;
+        font-size: 90%;
+        overflow:auto;
+  }
+  table { border-collapse: collapse; }
+  td, th { vertical-align: top;  }
+  th.right  { text-align:center;  }
+  th.left   { text-align:center;   }
+  th.center { text-align:center; }
+  td.right  { text-align:right;  }
+  td.left   { text-align:left;   }
+  td.center { text-align:center; }
+  dt { font-weight: bold; }
+  div.figure { padding: 0.5em; }
+  div.figure p { text-align: center; }
+  div.inlinetask {
+    padding:10px;
+    border:2px solid gray;
+    margin:10px;
+    background: #ffffcc;
+  }
+  textarea { overflow-x: auto; }
+  .linenr { font-size:smaller }
+  .code-highlighted {background-color:#ffff00;}
+  .org-info-js_info-navigation { border-style:none; }
+  #org-info-js_console-label { font-size:10px; font-weight:bold;
+                               white-space:nowrap; }
+  .org-info-js_search-highlight {background-color:#ffff00; color:#000000;
+                                 font-weight:bold; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="org.css" />
+<script type="text/javascript">
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+
+</head>
+<body>
+
+<div id="preamble">
+
+</div>
+
+<div id="content">
+<h1 class="title">= 関西Emacs勉強会</h1>
+
+
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1 関西Emacs勉強会</a>
+<ul>
+<li><a href="#sec-1-1">1.1 概要</a></li>
+<li><a href="#sec-1-2">1.2 試み</a>
+<ul>
+<li><a href="#sec-1-2-1">1.2.1 Ust</a></li>
+<li><a href="#sec-1-2-2">1.2.2 ポジションペーパー</a></li>
+<li><a href="#sec-1-2-3">1.2.3 ワールドカフェ</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-3">1.3 参加者層</a></li>
+<li><a href="#sec-1-4">1.4 開催時期</a></li>
+<li><a href="#sec-1-5">1.5 開催場所</a></li>
+<li><a href="#sec-1-6">1.6 ハッシュタグ</a></li>
+<li><a href="#sec-1-7">1.7 姉妹イベント</a></li>
+<li><a href="#sec-1-8">1.8 過去の記録</a>
+<ul>
+<li><a href="#sec-1-8-1">1.8.1 第4回 関西Emacs勉強会</a></li>
+<li><a href="#sec-1-8-2">1.8.2 第3回 関西Emacs勉強会</a></li>
+<li><a href="#sec-1-8-3">1.8.3 第2回 関西Emacs勉強会</a></li>
+<li><a href="#sec-1-8-4">1.8.4 第1回 関西Emacs勉強会</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> 関西Emacs勉強会</h2>
+<div class="outline-text-2" id="text-1">
+
+
+</div>
+
+<div id="outline-container-1-1" class="outline-3">
+<h3 id="sec-1-1"><span class="section-number-3">1.1</span> 概要</h3>
+<div class="outline-text-3" id="text-1-1">
+
+<p>   Emacs好きが集まって，拡張方法や使い方を紹介し合ったり，FPS on Emacsで遊んだり，今後のEmacsの発展を話し合ったりする勉強会です．
+</p></div>
+
+</div>
+
+<div id="outline-container-1-2" class="outline-3">
+<h3 id="sec-1-2"><span class="section-number-3">1.2</span> 試み</h3>
+<div class="outline-text-3" id="text-1-2">
+
+
+</div>
+
+<div id="outline-container-1-2-1" class="outline-4">
+<h4 id="sec-1-2-1"><span class="section-number-4">1.2.1</span> Ust</h4>
+<div class="outline-text-4" id="text-1-2-1">
+
+<p>    毎回USTREAMで配信しています．
+</p>
+<p>
+    第3回以降→<a href="http://www.ustream.tv/user/kansai-emacs/videos">kansai-emacs's Videos on USTREAM.</a>
+</p>
+<p>
+    <a href="http://www.ustream.tv/recorded/9802764">第2回その1</a>， <a href="http://www.ustream.tv/recorded/9804685">第2回その2</a>， <a href="http://www.ustream.tv/recorded/5604331">第1回</a>
+</p></div>
+
+</div>
+
+<div id="outline-container-1-2-2" class="outline-4">
+<h4 id="sec-1-2-2"><span class="section-number-4">1.2.2</span> ポジションペーパー</h4>
+<div class="outline-text-4" id="text-1-2-2">
+
+<p>    全員が能動的に参加できるように，参加者はA4のポジションペーパーを用意し，勉強会開始時に自己紹介します．
+</p>
+<p>
+    第1回から毎回実施しています．紙での配布から事前アップロードなど少しずつ改善しています．
+</p>
+<p>
+    <a href="http://eto.com/d/PositionPaper.html">ポジションペーパ方式 - eto.com/d</a>
+</p>
+<p>
+    <a href="http://wiki.fdiary.net/rails/?rails-tokyo-guide">Rails' Wiki - Rails勉強会@東京のしおり</a>
+</p></div>
+
+</div>
+
+<div id="outline-container-1-2-3" class="outline-4">
+<h4 id="sec-1-2-3"><span class="section-number-4">1.2.3</span> ワールドカフェ</h4>
+<div class="outline-text-4" id="text-1-2-3">
+
+<p>    一つのテーマについてテーブルにわかれて議論する方法の一つです．
+    第4回で導入しました．
+</p>
+<p>
+    メンバーを途中で入れ替える事で他のテーブルで話し合った内容を共有し，より深く議論する事ができます．
+</p></div>
+</div>
+
+</div>
+
+<div id="outline-container-1-3" class="outline-3">
+<h3 id="sec-1-3"><span class="section-number-3">1.3</span> 参加者層</h3>
+<div class="outline-text-3" id="text-1-3">
+
+<p>   学生から社会人まで幅広く，遠いところでは福岡，香川，愛媛？，東京，石川？などからもこられています．
+</p>
+<p>
+   女性の参加者もほぼ毎回おられます．
+</p>
+<p>
+   一度るびきちさんも参加できそうでしたが，京都への移動時間が足りず，なんばで食事だけご一緒できました．
+</p></div>
+
+</div>
+
+<div id="outline-container-1-4" class="outline-3">
+<h3 id="sec-1-4"><span class="section-number-3">1.4</span> 開催時期</h3>
+<div class="outline-text-3" id="text-1-4">
+
+<p>   半年に1回．4月と10月に開催しています．これまでに4回開催しました．
+</p></div>
+
+</div>
+
+<div id="outline-container-1-5" class="outline-3">
+<h3 id="sec-1-5"><span class="section-number-3">1.5</span> 開催場所</h3>
+<div class="outline-text-3" id="text-1-5">
+
+<p>   過去の開催場所は大阪NPOプラザ(大阪)，(株)クロノス (大阪)，株式会社アックス(京都)，株式会社はてな(京都)と，関西で場所を探しています．
+</p></div>
+
+</div>
+
+<div id="outline-container-1-6" class="outline-3">
+<h3 id="sec-1-6"><span class="section-number-3">1.6</span> ハッシュタグ</h3>
+<div class="outline-text-3" id="text-1-6">
+
+<p>   #kansai_emacs <a href="https://twitter.com/search/#kansai_emacs">Twitter / Search - kansai_emacs</a>
+</p></div>
+
+</div>
+
+<div id="outline-container-1-7" class="outline-3">
+<h3 id="sec-1-7"><span class="section-number-3">1.7</span> 姉妹イベント</h3>
+<div class="outline-text-3" id="text-1-7">
+
+<p>   Emacs Advent Calendar
+</p></div>
+
+</div>
+
+<div id="outline-container-1-8" class="outline-3">
+<h3 id="sec-1-8"><span class="section-number-3">1.8</span> 過去の記録</h3>
+<div class="outline-text-3" id="text-1-8">
+
+
+</div>
+
+<div id="outline-container-1-8-1" class="outline-4">
+<h4 id="sec-1-8-1"><span class="section-number-4">1.8.1</span> 第4回 関西Emacs勉強会</h4>
+<div class="outline-text-4" id="text-1-8-1">
+
+<p>    定例にしようということで2011年後期分の開催です．
+</p><ul>
+<li id="sec-1-8-1-1">日付<br/>
+ <span class="timestamp-wrapper"> <span class="timestamp">2011-10-08 土</span></span><br/>
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-1-2">場所<br/>
+     セミナールーム in はてな
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-1-3">参加者<br/>
+     25名
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-1-4">発表者<br/>
+     6名
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-1-5">ATND<br/>
+     作りすぎました
+<ul>
+<li><a href="http://atnd.org/events/20332">(kansai-emacs #x04) for 運営ミーティング用 : ATND</a>
+</li>
+<li><a href="http://atnd.org/events/20329">(kansai-emacs #x04) for 参加者 : ATND</a>
+</li>
+<li><a href="http://atnd.org/events/20330">(kansai-emacs #x04) for 発表者 : ATND</a>
+</li>
+<li><a href="http://atnd.org/events/20331">(kansai-emacs #x04) for 懇親会 : ATND</a>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-1-6">Ustream<br/>
+<ul>
+<li><a href="http://www.ustream.tv/recorded/5604331">Ust一覧</a>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-1-7">ブログ(告知，まとめなど)<br/>
+<ul>
+<li><a href="http://d.hatena.ne.jp/peccu/20111004/kansai_emacs_4th">= (kansai-emacs #x04) ;=&amp;gt; "第四回関西Emacs勉強会" - ぺっくブログミラー@peccul</a>
+</li>
+<li><a href="http://d.hatena.ne.jp/peccu/20111023/kansai_emacs_4th">= (prin1 (kansai-emacs #x04)) ; =&amp;gt; 第四回関西Emacs勉強会まとめ - ぺっくブログミラー@peccul</a>
+</li>
+</ul>
+
+</li>
+</ul>
+</div>
+
+</div>
+
+<div id="outline-container-1-8-2" class="outline-4">
+<h4 id="sec-1-8-2"><span class="section-number-4">1.8.2</span> 第3回 関西Emacs勉強会</h4>
+<div class="outline-text-4" id="text-1-8-2">
+
+<p>    るびきちさんが大阪に来られるとの事で開催しました．結局お会いできましたが食事だけだったのが残念．
+</p>
+<p>
+    懇親会2次会にむりやりとしぁさんを連れ出したのはいい思い出．
+</p><ul>
+<li id="sec-1-8-2-1">日付<br/>
+ <span class="timestamp-wrapper"> <span class="timestamp">2011-04-10 日</span></span><br/>
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-2-2">場所<br/>
+     株式会社アックス
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-2-3">参加者<br/>
+     35名
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-2-4">発表者<br/>
+     5名
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-2-5">ATND<br/>
+<ul>
+<li><a href="http://atnd.org/events/13379">(kansai-emacs #x03) : ATND</a>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-2-6">Ustream<br/>
+<ul>
+<li><a href="http://www.ustream.tv/recorded/5604331">Ust一覧</a>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-2-7">ブログ(告知，まとめなど)<br/>
+<ul>
+<li><a href="http://d.hatena.ne.jp/peccu/20110402/kansai_emacs_3rd">= (kansai-emacs #x03) =&amp;gt; "第三回関西Emacs勉強会" - ぺっくブログミラー@peccul</a>
+</li>
+<li>すみませんまとめ記事書いてないです…
+</li>
+<li>きわなみさんの <a href="http://d.hatena.ne.jp/kiwanami/20110413/1302683171">関西Emacsに行ってきた - 技術日記＠kiwanami</a>
+</li>
+</ul>
+
+</li>
+</ul>
+</div>
+
+</div>
+
+<div id="outline-container-1-8-3" class="outline-4">
+<h4 id="sec-1-8-3"><span class="section-number-4">1.8.3</span> 第2回 関西Emacs勉強会</h4>
+<div class="outline-text-4" id="text-1-8-3">
+
+<p>    ともやさんが日本に帰ってきているとの事で開催しました．
+</p>
+<p>
+    女性初参加．
+</p><ul>
+<li id="sec-1-8-3-1">日付<br/>
+ <span class="timestamp-wrapper"> <span class="timestamp">2010-09-25 土</span></span><br/>
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-3-2">場所<br/>
+     (株)クロノス
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-3-3">参加者<br/>
+     29名
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-3-4">発表者<br/>
+     7名
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-3-5">ATND<br/>
+<ul>
+<li><a href="http://atnd.org/events/7161">(kansai-emacs #x02) : ATND</a>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-3-6">Ustream<br/>
+<ul>
+<li><a href="http://www.ustream.tv/recorded/9802764">第2回その1</a>Ust
+</li>
+<li><a href="http://www.ustream.tv/recorded/9804685">第2回その2Ust</a>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-3-7">ブログ(告知，まとめなど)<br/>
+<ul>
+<li><a href="http://d.hatena.ne.jp/peccu/20100810/kansai_emacs">= (append event (kansai-emacs #x02)) 第二回関西Emacs勉強会開催予定(2010/9/25 Sat) - ぺっくブログミラー@peccul</a>
+</li>
+<li><a href="http://d.hatena.ne.jp/peccu/20100925/kansai_emacs">= (message (kansai-emacs #x02)) - ぺっくブログミラー@peccul</a>
+</li>
+<li><a href="http://d.hatena.ne.jp/peccu/20100925/kansai_emacs_now">= (kansai-emacs #x02) - ぺっくブログミラー@peccul</a>
+</li>
+</ul>
+
+</li>
+</ul>
+</div>
+
+</div>
+
+<div id="outline-container-1-8-4" class="outline-4">
+<h4 id="sec-1-8-4"><span class="section-number-4">1.8.4</span> 第1回 関西Emacs勉強会</h4>
+<div class="outline-text-4" id="text-1-8-4">
+
+<p>    初回はVim勉強会と抱き合わせでした．
+</p>
+<p>
+    今思うと初回はぐだぐだだったなーと．だいぶ改善されてきてると思う．
+</p><ul>
+<li id="sec-1-8-4-1">日付<br/>
+ <span class="timestamp-wrapper"> <span class="timestamp">2010-02-03 水</span></span><br/>
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-4-2">場所<br/>
+     大阪NPOプラザ(大阪)
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-4-3">参加者<br/>
+     20名
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-4-4">発表者<br/>
+     4名
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-4-5">ATND<br/>
+<ul>
+<li><a href="http://atnd.org/events/3436">(kansai-emacs #x01) 発表者用 : ATND</a>
+</li>
+<li><a href="http://atnd.org/events/3435">(kansai-emacs #x01) 参加者用 : ATND</a>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-4-6">Ustream<br/>
+<ul>
+<li><a href="http://www.ustream.tv/recorded/5604331">第1回Ust</a>
+</li>
+</ul>
+
+</li>
+</ul>
+<ul>
+<li id="sec-1-8-4-7">ブログ(告知，まとめなど)<br/>
+<ul>
+<li><a href="http://d.hatena.ne.jp/peccu/20100303/kansaiemacs">(kansai-emacs #x01)第1回関西Emacs勉強会の詳細決定，通知 - ぺっくブログミラー@peccul</a>
+</li>
+<li><a href="http://d.hatena.ne.jp/peccu/20100330/kansaiemacs">(message (kansai-emacs #x01)) - ぺっくブログミラー@peccul</a>
+</li>
+</ul>
+
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="postamble">
+<p class="date">Date: 2012-02-05 22:10:19 JST</p>
+<p class="author">Author: peccu</p>
+<p class="creator">Org version 7.8.03 with Emacs version 22</p>
+<a href="http://validator.w3.org/check?uri=referer">Validate XHTML 1.0</a>
+
+</div>
+</body>
+</html>
