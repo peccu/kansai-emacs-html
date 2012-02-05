@@ -10,7 +10,9 @@
 *** Ust
     毎回USTREAMで配信しています．
 
-    [[http://www.ustream.tv/user/kansai-emacs/videos][kansai-emacs's Videos on USTREAM.]]
+    第3回以降→[[http://www.ustream.tv/user/kansai-emacs/videos][kansai-emacs's Videos on USTREAM.]]
+
+    [[http://www.ustream.tv/recorded/9802764][第2回その1]]， [[http://www.ustream.tv/recorded/9804685][第2回その2]]， [[http://www.ustream.tv/recorded/5604331][第1回]]
 *** ポジションペーパー
     全員が能動的に参加できるように，参加者はA4のポジションペーパーを用意し，勉強会開始時に自己紹介します．
 
