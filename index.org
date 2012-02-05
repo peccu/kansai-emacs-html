@@ -1,7 +1,7 @@
 #+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
 #+OPTIONS: ^:nil toc:3 author:t creator:t
 = 関西Emacs勉強会
-[2012-01-24 12:07:18] 
+# [2012-01-24 12:07:18] 
 
 * 関西Emacs勉強会
 ** 概要
@@ -57,6 +57,8 @@
      - [[http://atnd.org/events/20329][(kansai-emacs #x04) for 参加者 : ATND]]
      - [[http://atnd.org/events/20330][(kansai-emacs #x04) for 発表者 : ATND]]
      - [[http://atnd.org/events/20331][(kansai-emacs #x04) for 懇親会 : ATND]]
+**** Ustream
+     - [[http://www.ustream.tv/recorded/5604331][Ust一覧]]
 **** ブログ(告知，まとめなど)
      - [[http://d.hatena.ne.jp/peccu/20111004/kansai_emacs_4th][= (kansai-emacs #x04) ;=&gt; "第四回関西Emacs勉強会" - ぺっくブログミラー@peccul]]
      - [[http://d.hatena.ne.jp/peccu/20111023/kansai_emacs_4th][= (prin1 (kansai-emacs #x04)) ; =&gt; 第四回関西Emacs勉強会まとめ - ぺっくブログミラー@peccul]]
@@ -74,6 +76,8 @@
      5名
 **** ATND
      - [[http://atnd.org/events/13379][(kansai-emacs #x03) : ATND]]
+**** Ustream
+     - [[http://www.ustream.tv/recorded/5604331][Ust一覧]]
 **** ブログ(告知，まとめなど)
      - [[http://d.hatena.ne.jp/peccu/20110402/kansai_emacs_3rd][= (kansai-emacs #x03) =&gt; "第三回関西Emacs勉強会" - ぺっくブログミラー@peccul]]
      - すみませんまとめ記事書いてないです…
@@ -92,6 +96,9 @@
      7名
 **** ATND
      - [[http://atnd.org/events/7161][(kansai-emacs #x02) : ATND]]
+**** Ustream
+     - [[http://www.ustream.tv/recorded/9802764][第2回その1]]Ust
+     - [[http://www.ustream.tv/recorded/9804685][第2回その2Ust]]
 **** ブログ(告知，まとめなど)
      - [[http://d.hatena.ne.jp/peccu/20100810/kansai_emacs][= (append event (kansai-emacs #x02)) 第二回関西Emacs勉強会開催予定(2010/9/25 Sat) - ぺっくブログミラー@peccul]]
      - [[http://d.hatena.ne.jp/peccu/20100925/kansai_emacs][= (message (kansai-emacs #x02)) - ぺっくブログミラー@peccul]]
@@ -111,6 +118,8 @@
 **** ATND
      - [[http://atnd.org/events/3436][(kansai-emacs #x01) 発表者用 : ATND]]
      - [[http://atnd.org/events/3435][(kansai-emacs #x01) 参加者用 : ATND]]
+**** Ustream
+     - [[http://www.ustream.tv/recorded/5604331][第1回Ust]]
 **** ブログ(告知，まとめなど)
      - [[http://d.hatena.ne.jp/peccu/20100303/kansaiemacs][(kansai-emacs #x01)第1回関西Emacs勉強会の詳細決定，通知 - ぺっくブログミラー@peccul]]
      - [[http://d.hatena.ne.jp/peccu/20100330/kansaiemacs][(message (kansai-emacs #x01)) - ぺっくブログミラー@peccul]]
