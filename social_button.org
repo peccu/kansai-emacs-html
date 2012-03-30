@@ -1,0 +1,11 @@
+#+LANGUAGE:  jp
+#+OPTIONS:  @:t -:nil f:nil 
+
+#+BEGIN_HTML 
+<div id="fb-root"></div>
+<a href="http://peccu.sytes.net/ke/" class="hatena-bookmark-button" data-hatena-bookmark-title="kansai" data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://peccu.sytes.net/ke/" data-via="peccu" data-lang="ja" data-count="none" data-hashtags="関西Emacs">ツイート</a>
+<div class="fb-like" data-href="http://peccu.sytes.net/ke/" data-send="false" data-width="450" data-show-faces="true"></div>
+
+#+END_HTML

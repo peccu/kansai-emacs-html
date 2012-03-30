@@ -1,6 +1,8 @@
+#+TITLE: = 関西Emacs勉強会
+#+KEYWORDS: emacs
 #+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
-#+OPTIONS: ^:nil toc:3 author:t creator:t
-= 関西Emacs勉強会
+#+OPTIONS: ^:nil toc:3 author:t creator:t 
+#+INCLUDE: social_button.org
 # [2012-01-24 12:07:18] 
 
 * 関西Emacs勉強会
@@ -123,3 +125,7 @@
 **** ブログ(告知，まとめなど)
      - [[http://d.hatena.ne.jp/peccu/20100303/kansaiemacs][(kansai-emacs #x01)第1回関西Emacs勉強会の詳細決定，通知 - ぺっくブログミラー@peccul]]
      - [[http://d.hatena.ne.jp/peccu/20100330/kansaiemacs][(message (kansai-emacs #x01)) - ぺっくブログミラー@peccul]]
+
+#+BEGIN_HTML
+<script type="text/javascript" src="org.js"></script>
+#+END_HTML
