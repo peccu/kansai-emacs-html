@@ -46,6 +46,7 @@
 ** 開催場所
    過去の開催場所は大阪NPOプラザ(大阪)，(株)クロノス (大阪)，株式会社アックス(京都)，株式会社はてな(京都)と，関西で場所を探しています．
 ** ハッシュタグ
+   #関西emacs [[https://twitter.com/#!/search/%23%E9%96%A2%E8%A5%BFEmacs][Twitter / Search - #関西Emacs]]
    #kansai_emacs [[https://twitter.com/search/#kansai_emacs][Twitter / Search - kansai_emacs]]
 ** 姉妹イベント
    Emacs Advent Calendar
