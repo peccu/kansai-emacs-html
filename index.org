@@ -71,6 +71,7 @@
      - [[http://gongo.hatenablog.com/entry/2012/10/22/210932][第6回 関西Emacs勉強会に参加してきました - Thanks Driven Life]]
      - [[http://nanasess.azurewebsites.net/entry/kansai-emacs-x06.md][第6回関西Emacs勉強会 - Think Different.]]
      - [[http://poulenc.eng.kagawa-u.ac.jp/Member/KBIT/event/201210-emacs.html][第7回 関西Emacs勉強会 - KBIT Web Site]] (タイトルが違う？)
+     - [[http://d.hatena.ne.jp/tarao/20121021/1350844264][Emacs上のターミナルを最強に: term+.el - 貳佰伍拾陸夜日記]]
      - 他に見かけたら教えてくださると嬉しいです
 *** 第5回 関西Emacs勉強会
 **** 日付
