@@ -93,6 +93,7 @@
      - [[http://www.ustream.tv/recorded/22184233][5.ありさわさんの発表, 快適Emacs Lisp生活を目指して. コンピュータ...]]
      - [[http://www.ustream.tv/recorded/22184538][6.kozo2さんの発表, 多様なelispインストール手法に関する一考察. コンピュータ...]]
 **** ブログ(告知，まとめなど)
+     - [[http://kimiboku.wordpress.com/2012/04/28/kannsai-emacs05/][(kansai-emacs #x05)に行ってきました #kansai_emacs | i pensieri stretti & il viso sciolto.]]
      - [[http://d.hatena.ne.jp/peccu/20120412/kansai_emacs5][= kansai-emacs #5 - ぺっくブログミラー@peccul]]
      - [[http://d.hatena.ne.jp/peccu/20120429/ke5][= #kansai_emacs 5 終了 - ぺっくブログミラー@peccul]]
 *** 第4回 関西Emacs勉強会
