@@ -1,25 +1,25 @@
 #+TITLE: = 関西Emacs勉強会
 #+KEYWORDS: emacs
 #+STYLE: <link rel="stylesheet" type="text/css" href="org.css" />
-#+OPTIONS: ^:nil toc:3 author:t creator:t 
+#+OPTIONS: ^:nil toc:3 author:t creator:t
 #+INCLUDE: social_button.org
-# [2012-01-24 12:07:18] 
+# [2012-01-24 12:07:18]
 
 * 関西Emacs勉強会
 ** 概要
    Emacs好きが集まって，拡張方法や使い方を紹介し合ったり，FPS on Emacsで遊んだり，今後のEmacsの発展を話し合ったりする勉強会です．
 ** 次回予告
    - 日程
-     [2013-04-27 Sat]
+     2013年10月
    - 場所
-     株式会社はてな セミナールーム
+     株式会社はてな セミナールーム(仮)
    - ATND
-     [[http://atnd.org/event/ke7][(kansai-emacs #x07) #関西Emacs | 集客ならイベントアテンド]]
+     未作成
    - 告知記事
-     [[http://d.hatena.ne.jp/peccu/20130407/ke7][= kansai-emacs #7 #関西Emacs - ぺっくブログミラー@peccul]]
+     未作成
 ** 試み
 *** Ust
-    毎回USTREAMで配信しています．
+    USTREAMで配信しています．第6回，第7回は準備不足で配信できませんでした．
 
     第3回以降→[[http://www.ustream.tv/user/kansai-emacs/videos][kansai-emacs's Videos on USTREAM.]]
 
@@ -38,21 +38,43 @@
 
     メンバーを途中で入れ替える事で他のテーブルで話し合った内容を共有し，より深く議論する事ができます．
 ** 参加者層
-   学生から社会人まで幅広く，遠いところでは福岡，香川，愛媛？，東京，石川？などからもこられています．
+   学生から社会人まで幅広く，遠いところでは福岡，香川，愛媛？，東京，石川？，名古屋などからもこられています．
 
    女性の参加者もほぼ毎回おられます．
 
    一度るびきちさんも参加できそうでしたが，京都への移動時間が足りず，なんばで食事だけご一緒できました．
 ** 開催時期
-   半年に1回．4月と10月に開催しています．これまでに6回開催しました．
+   半年に1回．4月と10月に開催しています．これまでに7回開催しました．
 ** 開催場所
    過去の開催場所は大阪NPOプラザ(大阪)，(株)クロノス (大阪)，株式会社アックス(京都)，株式会社はてな(京都)と，関西で場所を探しています．
 ** ハッシュタグ
    #関西emacs [[https://twitter.com/#!/search/%23%E9%96%A2%E8%A5%BFEmacs][Twitter / Search - #関西Emacs]]
    (旧)#kansai_emacs [[https://twitter.com/search/#kansai_emacs][Twitter / Search - kansai_emacs]]
 ** 姉妹イベント
-   Emacs Advent Calendar
+   - Emacs Advent Calendar
+   - Emacs/Lisp温泉
 ** 過去の記録
+*** 第7回 関西Emacs勉強会
+**** 日付
+     [2013-04-27 土]
+**** 場所
+     株式会社はてな セミナールーム
+**** 参加者
+     21名(うち女性1名)
+**** 発表者
+     6名
+**** ATND
+     - [[http://atnd.org/event/ke7][(kansai-emacs #x07) #関西Emacs | 集客ならイベントアテンド]]
+**** Ustream
+     - すみません配信できませんでした
+**** ブログ(告知，まとめなど)
+     - [[http://d.hatena.ne.jp/peccu/20130407/ke7][= kansai-emacs #7 #関西Emacs - ぺっくブログミラー@peccul]]
+     - [[http://togetter.com/li/494875][kansai-emacs #7 #関西Emacs - Togetter]]
+     - [[http://hitode909.hatenablog.com/entry/2013/04/27/223406][hitode909の日記]]
+     - [[http://d.hatena.ne.jp/syohex/20130428/1367115991][第 7回関西 Emacsに参加/発表してきました。 - Life is very short]]
+     - [[http://kozo2.hatenablog.com/entry/2013/04/28/024543][関西Emacsに行ってきた(MELPAの話をしてきた件) - kozo2's blog]]
+     - [[http://shibayu36.hatenablog.com/entry/2013/04/28/161030][#関西Emacs に参加して、open-github-from-here.elの発表をしました - $shibayu36->blog;]]
+     - 他に見かけたら教えてくださると嬉しいです
 *** 第6回 関西Emacs勉強会
 **** 日付
      [2012-10-20 土]
